@@ -1,0 +1,10 @@
+/* Global styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.container {
+  flex: 1;
+  background-color: #fff;
+} 
